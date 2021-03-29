@@ -160,7 +160,18 @@ body {
     box-shadow: 0 7px #1a7940;
   }
   
-  /* Tambahkan CSS untuk message ketika diklik */
+  .message:active {
+    position: relative;
+    top: 7px;
+    box-shadow: none;
+  }
   
+  /* Tambahkan CSS untuk tag <img> yang berada didalam <footer> */
+  
+  
+  /* Tambahkan CSS untuk tag <p> yang berada didalam <footer> */
+  
+  
+  /* Tambahkan CSS untuk tag <footer> */
   
   
